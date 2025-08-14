@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+
+# Virtual environments
+agents/
+venv/
+.env/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Sensitive files
+.env
